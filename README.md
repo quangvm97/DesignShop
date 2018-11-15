@@ -1,2 +1,2 @@
-# DesignShop-
+# DesignShop
 Server side design tool 
